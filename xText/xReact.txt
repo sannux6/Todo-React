@@ -1,0 +1,5 @@
+- routing smoothly
+
+# JSX - Javascript Syntax Extenstion; just like django html ma {% %} rakhne 
+
+
