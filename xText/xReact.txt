@@ -3,3 +3,42 @@
 # JSX - Javascript Syntax Extenstion; just like django html ma {% %} rakhne 
 
 
+# Need to know to add in code
+1. need to add '/' if no closing tag
+2. To run server - npm run build
+3. Class to ClassName 
+
+
+
+
+
+# Making and importing component
+
+# import logo from './logo.svg';
+import './App.css';
+import Header from './MyComponent/Header';
+
+function App() {
+  return (
+    <>
+    <Header/>
+    <Todo/>
+    <Footer/>
+    
+    </>
+  );
+}
+
+export default App;
+
+
+#################################
+
+# Virtula DOM -- to make copy of html docs, later toc hange only updated things 
+
+#component
+1. Functional component
+
+
+
+3. Class component ( herer private data can be modififed)
